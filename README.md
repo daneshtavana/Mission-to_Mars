@@ -3,4 +3,6 @@ UCB-Extension Module 10
 
 ### Must place chromedriver_win32 into the same folds as python script
 
-# section 10.5.3
+# Run mongod in a bash
+# Run app.py on anacondashell
+type http://2700 in terminal
